@@ -1,0 +1,17 @@
+[
+	{
+		"title": "producto prueba1",
+		"description": "Este es un producto prueba1",
+		"code": "abc123",
+		"price": 55,
+		"status": true,
+		"stock": 200,
+		"thumbnail": [
+			[
+				"Sin imagen",
+				"Sin Imagen2"
+			]
+		],
+		"id": 1
+	}
+]
