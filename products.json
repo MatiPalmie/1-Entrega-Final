@@ -13,5 +13,35 @@
 			]
 		],
 		"id": 1
+	},
+	{
+		"title": "producto prueba2",
+		"description": "Este es un producto prueba2",
+		"code": "12345",
+		"price": 55,
+		"status": true,
+		"stock": 200,
+		"thumbnail": [
+			[
+				"Sin imagen",
+				"Sin Imagen2"
+			]
+		],
+		"id": 2
+	},
+	{
+		"title": "producto prueba3",
+		"description": "Este es un producto prueba3",
+		"code": "7894",
+		"price": 55,
+		"status": true,
+		"stock": 200,
+		"thumbnail": [
+			[
+				"Sin imagen",
+				"Sin Imagen2"
+			]
+		],
+		"id": 3
 	}
 ]
